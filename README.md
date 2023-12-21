@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here](https://your-solution-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/blog-preview-using-atomic-css-by-jabrayilzade-ali-Imw7XhS7l1)
 - Live Site URL: [here](https://blog-preview-jabrayilzade-ali.netlify.app/)
 
 ## My process
