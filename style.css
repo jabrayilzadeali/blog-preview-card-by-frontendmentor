@@ -711,13 +711,14 @@ h6 {
 /* box shadow */
 .shadow {
     box-shadow: 9px 9px 2px 1px var(--Black);
-    transition: all .5s;
 }
 
-.shadow:hover {
+.hover-shadow:hover {
     box-shadow: 15px 15px 2px 1px var(--Black);
 }
 
-
+.transition-all {
+    transition: all .5s;
+}
 
 
