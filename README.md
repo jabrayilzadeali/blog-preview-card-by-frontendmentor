@@ -51,4 +51,4 @@ I am getting good add atomic css!!!
 ## Author
 
 - Frontend Mentor - [Jabrayilzade Ali](https://www.frontendmentor.io/profile/jabrayilzadeali)
-- Twitter - [Jabrayilzade Ali](https://twitter.com/JabrayilzadeAli)
+- Twitter - [Jabrayilzade Ali](https://twitter.com/JabrayilzadeAli)# blog-preview-card-by-frontendmentor
